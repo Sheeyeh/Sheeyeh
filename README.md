@@ -4,17 +4,13 @@ I'm Lawrence, someone who enjoys learning, creating, and connecting — both wit
 
 ### 🌿 A little about me
 - 🧠 I identify as a **software developer** with a love for data and AI
-- 📷 I enjoy **photography** — especially capturing portraits and meaningful moments
+- 📷 I enjoy **photography** — especially capturing landscape and meaningful moments
 - 🪵 I often go hiking to unwind and find inspiration from nature
 - ✍️ I journal and reflect regularly — it helps me stay grounded and motivated
 
-### 🤝 What I value
-- Genuine curiosity and lifelong learning  
-- Deep conversations and meaningful work  
-- Quiet mornings, a good walk, and a warm cup of tea
-
 ### 📫 Let's connect!
-I’m always open to meeting new people, sharing ideas, or chatting about life & tech:
+I’m open to meeting new people, sharing ideas, or chatting about life & tech.
+
 <!--
 **Sheeyeh/Sheeyeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
